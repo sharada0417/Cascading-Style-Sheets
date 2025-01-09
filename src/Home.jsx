@@ -4,6 +4,7 @@ import myImage2 from './assets/2.webp';
 
 const Home = () => {
   return (
+    <>
     <div>
     {/* Header */}
     <div className="container mx-auto px-10 text-center text-3xl bg-gray-400 py-4">
@@ -123,8 +124,11 @@ const Home = () => {
       </div>
     </div>
   </div>
-  
+  <div className="container mx-auto px-10 text-center text-md bg-black text-white py-2">
+  copywrite@sharada_417
+  </div>
 
+    </>
   )
 }
 
