@@ -1,4 +1,4 @@
-# Cascading Style Sheets (CSS) - (STEM-LINK course-Assignment-3)
+# Cascading Style Sheets - (STEM-LINK course-Assignment-3)
 
 This is a **Cascading Style Sheets (CSS)** app built with **React** and **Tailwind CSS**. The app explores the concepts of **Semantic CSS** and **Utility CSS**, showcasing their differences and applications in web design. It provides a detailed explanation of both approaches, along with examples, helping developers understand when to use each one for different web design needs.
 
@@ -27,7 +27,9 @@ Here’s a preview of the app:
 ```
 |----- App.jsx
 |----- Home.jsx
-|-----
+|----- assets
+        |---- 1.webp
+        |---- 2.webp
 
 
 ```
